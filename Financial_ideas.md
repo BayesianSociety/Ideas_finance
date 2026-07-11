@@ -20,6 +20,7 @@
 ## Industries
 - Pharma
 	- Clinical trials
+	- What is the rate of new protein discovery
 - Quantum
 - Semiconductors
 - Power storage and generation
@@ -34,6 +35,7 @@
 - Spot early development of new products in a company
 - Explore and compare promises made by the management over the years
 - How the management has changed over the years and how often
+- What are the most complex problems in the company
 
 
 ## New Technologies
@@ -60,3 +62,5 @@
 # Make deterministic or semi-deterministic pipelines for Research
 # Make pipelines for publishing research to Github and Instagram
 # How to rank companies, how to rank technologies development within companies
+# Simulations and scenario building
+# What are the most complex problems in finance and economics
