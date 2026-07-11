@@ -16,6 +16,7 @@
 - Major banks around the world Quarterly results
 - What are the economic outlooks from the major banks
 - Capital flow from which country to which, and from which industry to which
+- Trade flows from one country to another
 
 ## Industries
 - Pharma
@@ -64,3 +65,4 @@
 # How to rank companies, how to rank technologies development within companies
 # Simulations and scenario building
 # What are the most complex problems in finance and economics
+# How would economists describe this problem. How would economists of certain school describe this problem
