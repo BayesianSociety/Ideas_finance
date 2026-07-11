@@ -1,6 +1,4 @@
-# Make deterministic or semi-deterministic pipelines for Research
-# Make pipelines for publishing research to Github and Instagram
-# How to rank companies, how to rank technologies development within companies
+
 
 # Research
 ## Funds
@@ -59,3 +57,6 @@
 
 
 # Playbooks and Workflows
+# Make deterministic or semi-deterministic pipelines for Research
+# Make pipelines for publishing research to Github and Instagram
+# How to rank companies, how to rank technologies development within companies
