@@ -17,6 +17,7 @@
 - What are the economic outlooks from the major banks
 - Capital flow from which country to which, and from which industry to which
 - Trade flows from one country to another
+- How is financial legislation changes in major economies and how it's gonna affect the markets
 
 ## Industries
 - Pharma
